@@ -1,6 +1,6 @@
 # CLASH OF SPACE
 
-Clash of Space is clone game of Radius Raid of js13kGames (A JavaScript coding competition for HTML5 Game Developers) which is a popular game for kids. 
+Clash of Space is a cloned version game of the original Radius Raid of js13kGames (A JavaScript coding competition for HTML5 Game Developers) which is a popular game for kids. 
 A space craft shooting game built with HTML5, CSS, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
 
 
@@ -62,5 +62,8 @@ https://rajspeaks.github.io/clash-of-space
 
 <img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot2.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot3.png" height="500px" width="500px">
 
+### Original Game credit:
+Radius Raid of js13kGames
 
-&copy; Rajdeep Das
+
+Repo &copy; Rajdeep Das
