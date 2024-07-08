@@ -1,5 +1,10 @@
 body {
-				background: #080808;
+				background: url(../images/spacebg.jpg);
+				background-repeat: no-repeat;
+/*    			background-position: center;*/
+   				background-size: cover;
+   				width: 100%;
+    			height: 100%;	
 			}
 
 			#wrap {
@@ -18,7 +23,12 @@ body {
 			}
 
 			#wrap-inner {
-				background: #000;				
+				background: url(../images/wrap-space.jpg);	
+				background-repeat: no-repeat;
+/*    			background-position: center;*/
+   				background-size: cover;
+   				/*width: 100%;
+    			height: 100%*/			
 				overflow: hidden;
 				position: relative;				
 			}
